@@ -1,0 +1,26 @@
+2012-5-6
+wm9713 driver
+irda driver
+kaypad driver
+rs485io driver
+
+2012-05-04
+add 3G devices of tdscdma  ,huawei ET127 and ZTE A356 
+
+2012-04-17
+support  mlc-2 nandflash:K9GAG08U0E
+
+2012-03-26
+1 Add watchdog driver and test
+
+2012-03-23
+1  PWM Driver show correct frequency 
+2  Touchinput and AD Convert  work well  at the same time.
+3  DS18b20 driver and test application work well
+4  3G support below products:
+   ZTE-AD3812(forlinx device)-WCDMA    ZTE-AC581 and AC582-cdma2000
+   
+before 2012-02-14 
+1  JPEG Hardware decode 
+2  Qtopia has  not   black block
+3  FIMC driver change
